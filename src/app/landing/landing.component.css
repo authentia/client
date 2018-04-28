@@ -1,0 +1,48 @@
+.nav {
+    background: linear-gradient(#6B2866);
+}
+
+.first{
+    height: 1100px;
+    background-color: rgba(39, 39, 83,.8)
+}
+
+.second { 
+    background-color: rgba(99, 47, 99, .5);
+}
+
+.card{
+    height: 90px;
+}
+
+#logo{
+    height: 50px;
+}
+
+#first-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+#video-background{
+    position: absolute;
+    z-index: -3;
+    width: 1500px;
+}
+
+h2, p {
+    color: white;
+}
+
+.chica {
+    height: 800px;
+}
+
+.btn-primary {
+    width: 120px;
+    height: 60px;
+    background-color: #6B2866;
+    border-color: #6B2866
+}
